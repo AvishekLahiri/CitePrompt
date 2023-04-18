@@ -11,7 +11,7 @@ for zeroshot experiment
 ```
 bash run_zeroshot.sh
 ```
-for standard experiments
+for experiments in the fully supervised setting
 ```
 bash run.sh
 ```
